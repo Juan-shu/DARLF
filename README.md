@@ -1,4 +1,4 @@
-DARLF (`Disentangled Aging Representation Learning Framework`) is a trimmed repository focused on one ablation result bundle: `ablation_health_binary_agefirst_reusefull_v1_run_01`. The repository keeps the core training package, the ablation configuration, a small set of analysis scripts, and the result files needed to inspect the calibrated age-prediction and disease-aware ablation findings.
+DARLF (Disentangled Aging Representation Learning Framework) is a trimmed repository focused on one ablation result bundle: ablation_health_binary_agefirst_reusefull_v1_run_01. The repository keeps the core training package, the ablation configuration, a small set of analysis scripts, and the result files needed to inspect the calibrated age-prediction and disease-aware ablation findings.
 
 ## Scope
 
